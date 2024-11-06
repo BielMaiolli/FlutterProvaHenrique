@@ -1,0 +1,52 @@
+{
+  "jogos": [
+    {
+      "id": "1",
+      "nome": "The Witcher 3",
+      "genero": "RPG",
+      "percentualConclusao": 50,
+      "plataforma": "PC",
+      "favorito": false
+    },
+    {
+      "id": "2",
+      "nome": "FIFA 2024",
+      "genero": "Esportes",
+      "percentualConclusao": 80,
+      "plataforma": "PS5",
+      "favorito": false
+    },
+    {
+      "id": "3",
+      "nome": "Terraria",
+      "genero": "Sobrevivencia",
+      "percentualConclusao": 99,
+      "plataforma": "PS5",
+      "favorito": true
+    },
+    {
+      "id": "1730757227905",
+      "nome": "Minecraft",
+      "genero": "Sobrevivencia",
+      "percentualConclusao": 50,
+      "plataforma": "PC",
+      "favorito": true
+    },
+    {
+      "id": "1730759803863",
+      "nome": "Raft",
+      "genero": "Sobrevivencia",
+      "percentualConclusao": 47,
+      "plataforma": "PC",
+      "favorito": false
+    },
+    {
+      "id": "1730826093780",
+      "nome": "No Man's Sky",
+      "genero": "Sobrevivencia",
+      "percentualConclusao": 99,
+      "plataforma": "PC",
+      "favorito": false
+    }
+  ]
+}
